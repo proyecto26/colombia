@@ -6,6 +6,11 @@ Data extracted from [Departamento Administrativo Nacional de Estadística](https
 - Entity name: Ministerio de Tecnologías de La Información y Las Comunicaciones (MinTIC).
 - Date: 2017-05-11
 
+## JSON Data
+
+- Departments: https://github.com/proyecto26/colombia/raw/master/departments.json
+- Cities: https://github.com/proyecto26/colombia/raw/master/cities.json
+
 ## SQL Tables
 
 - Departments
